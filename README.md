@@ -11,8 +11,6 @@ This software was built in Visual Studio Code using Rust.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Tech with Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ)
 - [Tutorials Point](https://www.tutorialspoint.com/rust/index.htm)
 
